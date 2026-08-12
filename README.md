@@ -1,18 +1,18 @@
 
-# ECHO Education & Career Discovery Platform
+# Emma-Origbo Hub
 
 ## Project Status
 
 **Status:** Planning and Requirements  
 **Development Stage:** Pre-development  
-**Working Project Name:** ECHO Education & Career Discovery Platform  
-**Business/Publisher Brand:** ECHO Digital Edge
+**Working Project Name:** Emma-Origbo Hub  
+
 
 ---
 
 ## 1. Project Overview
 
-The ECHO Education & Career Discovery Platform is a planned dynamic web platform designed to help students, graduates, career changers and early-career professionals discover and understand education, skills-development and career opportunities.
+Emma-Origbo Hub is a planned dynamic web platform designed to help students, graduates, career changers and early-career professionals discover and understand education, skills-development and career opportunities.
 
 The platform will combine structured opportunity information with regularly updated editorial content, including educational programmes, internships, scholarships, bootcamps, certifications, career resources, digital tools and related opportunities.
 
